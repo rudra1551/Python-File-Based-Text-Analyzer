@@ -108,3 +108,4 @@ while True:
     
 print("\nThanks For Using Text Analyzer 🙏")
     
+
